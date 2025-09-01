@@ -6,3 +6,4 @@ This repository is for practicing Git and GitHub basics 🚀
 - Practice commits and pushes
 - Explore GitHub features
 # Project---Git
+Exercise 2: This line is added to test the pull request.
